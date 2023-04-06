@@ -1,11 +1,15 @@
 ![Header](https://github.com/EvgenySaenko/EvgenySaenko/blob/master/assets/header-for-github.png)
 
+---
+
 ### :man_technologist: Обо мне:
 
 Люблю программировать на Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.\
 Интересны все современные технологии, связанные с этим языком программирования, стараюсь не останавливаться на достигнутом,
 стремлюсь глубже закапываться в технологии с которыми работаю.\
-Так же стараюсь осваивать незнакомый мне стек технологии, для того чтобы пользоваться ими в работе.
+Так же стараюсь осваивать незнакомый мне стек технологий.
+
+---
 
 ### <img src="https://github.com/EvgenySaenko/EvgenySaenko/blob/master/assets/tehnology.png" width="20px"> Технологии с которыми работал:
 
@@ -28,7 +32,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50"/>
 </div>
 
-### <img src="https://github.com/EvgenySaenko/EvgenySaenko/blob/master/assets/tehnology.png" width="20px"> 🔝 Технологии 🔝 которые начал или хотел бы изучать 🎯 в будущем:
+---
+
+### <img src="https://github.com/EvgenySaenko/EvgenySaenko/blob/master/assets/tehnology.png" width="20px"> Технологии, которые начал или хотел бы изучать в будущем:
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="50" height="50"/>
@@ -39,7 +45,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg"  title="redis" alt="redis" width="50" height="50" />
 </div>
 
-### P.S. И многие другие на которые не нашлось иконок (ELK стек, облачные технологии и т.д);
+
+---
+
+### 🤝 Связаться со мной:
+
+  <div id="badges">
+    <a href="https://t.me/Evgeny_Saenko" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/id2473541" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+
+---
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀🎯🔥⭐🛠️📅🔝✅☑️✔️💠🚩</div>
-

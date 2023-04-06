@@ -12,7 +12,7 @@
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>
-    <img src="assets/Hibernate_logo.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>
+    <img src="assets/Hibernate_logo.svg" title="Hibernate" alt="Hibernate" height="50"/>
 
 </div>
 

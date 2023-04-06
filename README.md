@@ -9,6 +9,13 @@
 стремлюсь глубже закапываться в технологии с которыми работаю.\
 Так же стараюсь осваивать незнакомый мне стек технологий.
 
+#### Мои цели 🎯:
+
+- 🚩 Стать компетентным разработчиком, который не просто сможет решить любую задачу, а грамотно выберет технологии для ее решения, 
+    в коде будет уметь применять нужные шаблоны проектирования и придерживаться основных принципов KISS, DRY, SOLID итд.
+- 🚩 Поднять уровень английского языка, чтобы понимать на слух зарубежные туториалы 
+- 🚩 Стать высокооплачиваемым специалистом, который уверенно решает задачи компании
+
 ---
 
 ### <img src="https://github.com/EvgenySaenko/EvgenySaenko/blob/master/assets/tehnology.png" width="20px"> Технологии с которыми работал:
@@ -41,7 +48,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="grafana" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg"  title="redis" alt="redis" width="50" height="50" />
 </div>
 
@@ -61,4 +67,10 @@
 
 ---
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀🎯🔥⭐🛠️📅🔝✅☑️✔️💠🚩</div>
+[comment]: <> (### 💻 Codewars:)
+
+[comment]: <> (![codewars]&#40;https://www.codewars.com/users/EvgenySaenko/badges/large&#41;)
+
+
+
+###  👨‍💻 🚀🎯🔥⭐🛠️📅🔝✅☑️✔️💠🚩</div>

@@ -2,22 +2,19 @@
 
 ### :man_technologist: Обо мне:
 
-<div align="left">
-    Люблю программировать на Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.\
-    Интересны все современные технологии, связанные с этим языком программирования, стараюсь не останавливаться на достигнутом,
-    стремлюсь глубже закапываться в технологии с которыми работаю.\
-    Так же стараюсь осваивать незнакомый мне стек технологии, для того чтобы пользоваться ими в работе.
+Люблю программировать на Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.\
+Интересны все современные технологии, связанные с этим языком программирования, стараюсь не останавливаться на достигнутом,
+стремлюсь глубже закапываться в технологии с которыми работаю.\
+Так же стараюсь осваивать незнакомый мне стек технологии, для того чтобы пользоваться ими в работе.
+
+### <img src="https://github.com/EvgenySaenko/EvgenySaenko/blob/master/assets/tehnology.png" width="20px"> Технологии:
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>
+    <img src="assets/Hibernate_logo.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>
+
 </div>
-
-<img align="right" src="https://github.com/EvgenySaenko/EvgenySaenko/blob/master/assets/aboutMe.gif" width="120px">
-
-### <img src="https://github.com/EvgenySaenko/EvgenySaenko/blob/master/assets/tehnology.png" width="30px"> Технологии
-
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=44444)
-![Spring](https://img.shields.io/badge/Spring-090909?style=for-the-badge&logo=Spring)
-
-
 
 
 
